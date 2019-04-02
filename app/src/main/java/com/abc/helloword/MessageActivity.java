@@ -23,5 +23,5 @@ public class MessageActivity extends AppCompatActivity {
         Intent intent = new Intent( this, FinalActivity.class);
         startActivity(intent);
     }
-    /*claudio*/
+    /*claudiocvvatycvytsd*/
 }
